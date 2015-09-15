@@ -1,0 +1,18 @@
+//
+//  main.m
+//  2014-5-27单例模式
+//
+//  Created by lanou3g on 14-5-27.
+//  Copyright (c) 2014年 lanou3g.com 蓝欧科技. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+#import "AppDelegate.h"
+
+int main(int argc, char * argv[])
+{
+    @autoreleasepool {
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+    }
+}
