@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0BC9526F-29F7-4F37-86BE-CD7477C965A8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>2014-5-27单例模式</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D2C032725E666916663BA91290D0EFF1CB3D37ED</key>
+		<string>https://github.com/liuquanweinet/testLiu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>2014-5-27单例模式/2014-5-27单例模式.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D2C032725E666916663BA91290D0EFF1CB3D37ED</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/liuquanweinet/testLiu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D2C032725E666916663BA91290D0EFF1CB3D37ED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D2C032725E666916663BA91290D0EFF1CB3D37ED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E5%93%88%E5%93%88%E5%93%8822</string>
+		</dict>
+	</array>
+</dict>
+</plist>
