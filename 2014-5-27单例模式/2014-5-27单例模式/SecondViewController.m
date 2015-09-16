@@ -73,6 +73,13 @@
 }
 
 
+/**
+ *  更改
+ */
+- (void)loggerMessage:(NSString *)strMessage
+{
+    NSLog(@"message:%@", strMessage);
+}
 
 - (void)didReceiveMemoryWarning
 {
